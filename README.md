@@ -1,2 +1,2 @@
-# rvj
+# RogerVillela Journal
 Publications of RogerVillela Journal

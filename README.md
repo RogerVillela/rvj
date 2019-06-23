@@ -8,7 +8,7 @@ The **RogerVillela Journal (RVJ Professional Services)** is a group of technical
 
 > The publications are available for download in the folder named **publications**.
 
-In the folder **publications** we find a folder with the year of **publications**: **rvj/publications/2019/**.
+In the folder **publications** we find a folder with the year of **publications**: **rvj/publications/**.
 
 In the folder with the year of **publications** we find a folder for each month of the **publications**: **rvj/publications/**. The folder with the month of publication is created as the publication is released.
 

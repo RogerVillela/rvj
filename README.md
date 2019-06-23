@@ -1,4 +1,4 @@
-# RogerVillela Journal - Technical knowledge for software engineers
+# RogerVillela Journal - Technical knowledge for strategic technical leaders, technical leaders, software engineers, hobbyists on software programming. 
 
 ## About the publications of RogerVillela Journal
 
